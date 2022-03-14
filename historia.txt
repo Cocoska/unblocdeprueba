@@ -1,4 +1,6 @@
 hola 
 esta es la prueba git
 
-vamos por cer la modificacion de git
+vamos por ver la modificacion de git
+
+aqui estamos aprendiendo git mientras trabajamos
